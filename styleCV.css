@@ -73,11 +73,18 @@ body {
   gap: 18px;
   padding: 16px 0;
 }
-.xp + .xp { border-top: 1px solid #edf1f7; }
-
-.xp-body h3 { margin: 0 0 6px; font-size: 1.15rem; color: #0f2556; }
-.xp-meta { color: #66758f; font-size: .95rem; margin-bottom: 6px; }
-.xp ul { margin: 6px 0 0 18px; }
+.xp + .xp {
+  border-top: 1px solid #edf1f7; 
+}
+.xp-body h3 { 
+  margin: 0 0 6px; font-size: 1.15rem; color: #0f2556; 
+}
+.xp-meta { 
+  color: #66758f; font-size: .95rem; margin-bottom: 6px; 
+}
+.xp ul { 
+  margin: 6px 0 0 18px; 
+}
 
 .xp-logo {
   justify-self: end;
